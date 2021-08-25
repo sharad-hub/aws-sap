@@ -10,3 +10,25 @@
 
 * iBGP = Interal BGP - Routing within am AS ( Autonomous System)
 * eBGP = External BGP - Routing between AS's
+
+## Advance VPC routing
+* Subnets are associated with 1 RT only
+* Either the VPC Main RT or custom RT ( if you remove the custom RT, it will again be asociated with main RT)
+* RT can also be assocaited with an IGW and VGW
+* IPv4 and IPv6 handled separately within a RT
+* Routes send traffic based on destination to a target
+* 50 RT and 100 RT ( --- Limits)
+* All Routes are evaluated- highest priority matching is used
+
+
+### Routing priority orders
+* Longest prefix wins
+* Static Routes
+* Propagated Routes
+
+* DX
+* VPN Static
+* VPN BGP
+* AS_Path  (shortest AS path will win)
+
+![](../images/2021-08-25-08-39-42.png)
