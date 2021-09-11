@@ -21,3 +21,4 @@
 * Share between accounts using AWS RAM
 * Peer with different regions - (same or cross account)
 * Less complexity vs w/o TGW
+

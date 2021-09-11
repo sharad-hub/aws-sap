@@ -32,3 +32,12 @@ If the spot price go above, ur shot instance will be losed.
 ![](../images/2021-08-31-07-30-06.png)
 
 Security group are attached with ENI not EC2
+
+
+![](../images/2021-08-31-07-48-40.png)
+![](../images/2021-08-31-07-52-20.png)
+
+
+AMI + Bootstrapng
+
+![](../images/2021-08-31-08-10-06.png)

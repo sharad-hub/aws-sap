@@ -21,17 +21,3 @@
 
 ![](../images/2021-08-26-00-04-38.png)
 
-
-## Site to site VPN
-
-
-![](../images/2021-08-26-00-13-24.png)
-
-
-- Accelerated Site to site VPN (using AWS closet global accelerator edge location)
-
-![](../images/2021-08-26-00-17-27.png)
-
-- Accelerated site to site VPN (using TGW - transit gateway )
-
-![](../images/2021-08-26-00-22-03.png)
