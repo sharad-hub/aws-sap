@@ -1,0 +1,1 @@
+AWS OpsWorks provides managed implementations of Puppet and Chef in a product which integrates with other AWS Products and services.
